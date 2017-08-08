@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>我的博客打的费</title>
-    <link>http://example.org/</link>
-    <description>Recent content on 我的博客打的费</description>
+    <title>Hugo Blog</title>
+    <link>http://coderzh.github.io/blog/</link>
+    <description>Recent content on Hugo Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Tue, 08 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://coderzh.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>友联</title>
+      <link>http://coderzh.github.io/blog/links/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://coderzh.github.io/blog/links/</guid>
+      <description>Ritchie and his friends.</description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>http://coderzh.github.io/blog/about/</link>
+      <pubDate>Tue, 08 Aug 2017 18:28:10 +0800</pubDate>
+      
+      <guid>http://coderzh.github.io/blog/about/</guid>
+      <description>asdfsdaergrerre111</description>
+    </item>
     
   </channel>
 </rss>
